@@ -2,7 +2,15 @@
 
 - 📫 How to reach me **kdphad.kp@gmail.com**
 
-  ![image](https://github.com/Kuldeepak1/Profile/assets/99024019/582b2b4a-03f5-4e35-8a7e-482629f56c82)
+  ## CERTIFICATIONS
+
+[![CKA - Certified Kubernetes Administrator]()]https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.credly.com%2Forg%2Fthe-linux-foundation%2Fbadge%2Fcka-certified-kubernetes-administrator&psig=AOvVaw3r3r6vgZ5T9utJ80EL2UUr&ust=1699192939458000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCNCIjo_BqoIDFQAAAAAdAAAAABAE
+
+[![RHCSA - Red Hat Certified System Administrator](https://www.iteindia.in/wp-content/uploads/2019/05/RHCSA.png)]
+
+- Red Hat Certified System Administrator - RHCSA (July 2022)
+- Certified Kubernetes Administrator - CKA (October 2022)
+
 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/19BD2_PSA13V5o5SSzONqn26D7nCcUDUY/view?usp=drive_link](https://drive.google.com/file/d/19BD2_PSA13V5o5SSzONqn26D7nCcUDUY/view?usp=drive_link)
